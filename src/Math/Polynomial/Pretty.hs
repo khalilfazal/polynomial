@@ -1,4 +1,5 @@
-{-# LANGUAGE FlexibleContexts, FlexibleInstances, IncoherentInstances, ParallelListComp #-}
+{-# LANGUAGE
+        FlexibleContexts, FlexibleInstances, IncoherentInstances, ParallelListComp #-}
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 {-# OPTIONS_GHC -fno-warn-missing-signatures #-}
 {-# OPTIONS_GHC -fno-warn-type-defaults #-}
